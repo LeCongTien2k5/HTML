@@ -5,8 +5,15 @@ body {
   font-family: Arial, sans-serif;
 }
 
-img {
-  width: 300px;
-  height: auto;
+
+.img-small {
+  width: 150px;
+  height: 150px;
   border-radius: 10px;
 }
+.img-medium {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+
